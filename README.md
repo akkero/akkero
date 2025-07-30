@@ -1,5 +1,5 @@
 > # Welcome to my profile 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/1115536566304112680?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px)
+[Discord Presence](https://lanyard.cnrad.dev/api/1115536566304112680?bg=121613&showDisplayName=true&hideStatus=true&borderRadius=8px)
 
 > ## Langugages & Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
