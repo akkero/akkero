@@ -1,7 +1,5 @@
 # 👋 Hi, I'm skywokke
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=skywokke&fontSize=70&animation=fadeIn" />
-</p>
+
 Web Developer | Discord Bot Developer | Designer | TypeScript enthusiast 
 
 > ### ⚒️ Tech Stack
