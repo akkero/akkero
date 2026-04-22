@@ -8,7 +8,7 @@
 
 <h3>🌴 Current Project's</h1>
 
-- I'm currently working on **CubeFriend \w @jjuz**
+- I'm currently working on **CubeFriend \w @jjuz0**
 
 <h3>📞 Contact</h1>
 
