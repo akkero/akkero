@@ -7,11 +7,9 @@ Web Developer | Discord Bot Developer | Designer | TypeScript enthusiast
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akkero&layout=compact&theme=rose_pine)
-
 ---
 
-> ### Current Project's
+> ### 🌴 Current Project's
 
 - Creating my own story minecraft server /w @jjuz0
 
