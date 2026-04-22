@@ -11,4 +11,4 @@ Web Developer | Discord Bot Developer | Designer
 ### Current Project's
 
 ### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NICKNAME&show_icons=true&theme=rose_pine)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkero&show_icons=true&theme=rose_pine)
