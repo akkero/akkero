@@ -11,7 +11,7 @@ Web Developer | Discord Bot Developer | Designer | TypeScript enthusiast
 
 ---
 
-### Current Project's
+> ### Current Project's
 
 - Creating my own story minecraft server /w @jjuz0
 
