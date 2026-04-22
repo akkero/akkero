@@ -19,15 +19,15 @@
 <h1>📊 My stats</h1>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skywokke&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywokke&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=skywokke&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
--- -
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skywokke&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skywokke&theme=gruvbox&hide_border=false" />
+
+</div>
 
 <div align="center">
 <h1>🛠️ My stack</h1>
