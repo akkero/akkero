@@ -7,5 +7,7 @@
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 
+![skywokke's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkero&show_icons=true&bg_color=00000000)
+
 > ## Statistics
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=akkero&layout=compact&theme=merko)
